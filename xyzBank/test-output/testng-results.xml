@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53533" started-at="2022-10-20T01:56:57Z" finished-at="2022-10-20T01:57:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53533" started-at="2022-10-20T01:56:57Z" finished-at="2022-10-20T01:57:50Z">
+      <class name="testcases.TC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC001@2ed94a8b]" name="beforeSuite" is-config="true" duration-ms="266" started-at="2022-10-20T09:56:57Z" finished-at="2022-10-20T09:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC001@2ed94a8b]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-10-20T09:56:57Z" finished-at="2022-10-20T09:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC001@2ed94a8b]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-10-20T09:56:57Z" finished-at="2022-10-20T09:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC001@2ed94a8b]" name="beforeMethod" is-config="true" duration-ms="28042" started-at="2022-10-20T09:56:57Z" finished-at="2022-10-20T09:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CustomerDetails()[pri:0, instance:testcases.TC001@2ed94a8b]" name="CustomerDetails" duration-ms="24646" started-at="2022-10-20T09:57:25Z" finished-at="2022-10-20T09:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerDetails -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC001@2ed94a8b]" name="afterMethod" is-config="true" duration-ms="827" started-at="2022-10-20T09:57:50Z" finished-at="2022-10-20T09:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TC001@2ed94a8b]" name="afterClass" is-config="true" duration-ms="2" started-at="2022-10-20T09:57:50Z" finished-at="2022-10-20T09:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC001@2ed94a8b]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-10-20T09:57:50Z" finished-at="2022-10-20T09:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC001@2ed94a8b]" name="afterSuite" is-config="true" duration-ms="352" started-at="2022-10-20T09:57:50Z" finished-at="2022-10-20T09:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
